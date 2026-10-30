@@ -8,7 +8,7 @@
 # not valid, an [ERROR] is printed and the user goes back to the
 # menu instead of being asked again.
 # ============================================================
-
+# clint
 from mysql.connector import Error
 from database import open_database, run_sql, close_database
 
